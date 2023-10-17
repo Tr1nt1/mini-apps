@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.button{
+    width: auto;
+    height: 15px;
+}
+
+button#deleteButton{
+    width: 200px;
+    height: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
