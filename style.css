@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    background-color: gray;
+}
+
+.headerForm {
+    padding: 20px;
+}
+
+.formButton {
+    background-color: yellow;
+}
+
+main {
+    background-color: yellow;
+}
+
+footer {
+    background-color: bisque;
+}
+
